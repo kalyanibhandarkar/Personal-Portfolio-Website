@@ -40,7 +40,7 @@ The primary objective of this project is to create a professional portfolio webs
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+
 
 ---
 
@@ -85,7 +85,7 @@ Example:
 
 - HTML5
 - CSS3
-- JavaScript
+- 
 - Java
 - Python
 - Git
